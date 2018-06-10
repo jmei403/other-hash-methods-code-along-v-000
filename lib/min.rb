@@ -13,4 +13,4 @@ def get_the_min(groceries)
   groceries.min
 end
 
-p get_the_min(groceries)
+get_the_min(groceries)
